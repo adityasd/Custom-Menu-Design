@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+
+
+    <dimen name="titel_text">15sp</dimen>
+
+
+
+
+
+    <dimen name="menu_marging_pading_10pd">10dp</dimen>
+    <dimen name="menu_marging_pading_20pd">20dp</dimen>
+
+
+
+    <dimen name="spn_height">40dp</dimen>
+    <dimen name="menu_icon_hieght_width">65dp</dimen>
+    <dimen name="menu_text_hieght_width">80dp</dimen>
+
+
+    <dimen name="menu_marging_pading_13pd">15dp</dimen>
+</resources>
